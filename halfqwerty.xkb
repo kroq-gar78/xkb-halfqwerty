@@ -105,7 +105,7 @@ xkb_symbols "basic" {
     key <AD11> { [  bracketleft,   braceleft                          ] } ;
     key <AD12> { [ bracketright,  braceright                          ] } ;
 
-    key <AC01> { [            a,           A,  semicolon,       colon ] } ;
+    key <AC01> { [            a,           A, apostrophe,    quotedbl ] } ;
     key <AC02> { [            s,           S,          l,           L ] } ;
     key <AC03> { [            d,           D,          k,           K ] } ;
     key <AC04> { [            f,           F,          j,           J ] } ;
