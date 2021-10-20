@@ -1,7 +1,9 @@
 XKB half-QWERTY
 ===============
 
-An annotated half-QWERTY keyboard layout for the X Keyboard Extension
+This is a fork of [Joris Steyn's xkb-halfqwerty](https://github.com/jorissteyn/xkb-halfqwerty), but it moves the '/" key to the mirrored A key, since it's more useful than the ;/: key.
+
+An annotated half-QWERTY keyboard layout for the X Keyboard Extension.
 
 About half-QWERTY
 -----------------
